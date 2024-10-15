@@ -6,7 +6,6 @@ use App\Models\User;
 use App\Models\Cliente;
 use Illuminate\Auth\Access\HandlesAuthorization;
 
-
 class ClientePolicy
 {
     use HandlesAuthorization;
